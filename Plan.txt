@@ -1,0 +1,10 @@
+# Game settings and start
+    - starting menu
+    - select the difficulty     // advanced
+# Game board
+    - randomly filled with mines
+    - select a space to check if it is a mine
+    - show the result (user's marks, mines)
+# Keyboard input --> as a function in game board class
+    - Receive keyboard input from user
+    - Convert the input to a proper signal
